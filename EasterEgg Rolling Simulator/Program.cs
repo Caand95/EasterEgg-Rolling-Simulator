@@ -33,7 +33,8 @@ namespace EasterEgg_Rolling_Simulator
                 switch (menuint)
                 {
 
-
+                    case "-":
+                        break;
                     default:
                         Output("Something went wrong");
                         break;
